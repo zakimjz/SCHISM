@@ -1,11 +1,6 @@
-# SCHISM software : Authors - Karlton Sequeira, Mohammed Zaki (2004)
+# SCHISM software
+Authors - Karlton Sequeira, Mohammed Zaki (2004)
 
-# INSTALLATION
-there are three files: README, extract.sh and schism.tar.gz
-To install, all files must be in the same directory say "/tmp/".
-Run extract.sh while in this directory
-It will unzip and untar schism.tar.gz and make the executables
-It puts dataGen & convertData in "/tmp/schism/obj" & eclat in "/tmp/schism/src"
 
 # FUNCTIONALITY
 dataGen creates horizontal format ASCII high-dimensional datasets having
