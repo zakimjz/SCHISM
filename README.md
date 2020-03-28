@@ -6,6 +6,7 @@ SCHISM finds interesting subspace clusters.
 K. Sequeira, M. J. Zaki. SCHISM: A New Approach for Interesting Subspace Mining.
 In the Proceedings of the Fourth IEEE Conference On Data Mining. 2004.
 
+Karlton Sequeira and Mohammed J. Zaki. SCHISM: a new approach to interesting subspace mining. International Journal of Business Intelligence and Data Mining, 1(2):137–160, 2005. doi:10.1504/IJBIDM.2005.008360.
 
 # FUNCTIONALITY
 dataGen creates horizontal format ASCII high-dimensional datasets having
