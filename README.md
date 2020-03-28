@@ -1,6 +1,11 @@
 # SCHISM software
 Authors - Karlton Sequeira, Mohammed Zaki (2004)
 
+SCHISM finds interesting subspace clusters.
+
+K. Sequeira, M. J. Zaki. SCHISM: A New Approach for Interesting Subspace Mining.
+In the Proceedings of the Fourth IEEE Conference On Data Mining. 2004.
+
 
 # FUNCTIONALITY
 dataGen creates horizontal format ASCII high-dimensional datasets having
@@ -12,10 +17,6 @@ embedded subspaces (Only IBM formats have been recently tested)
 
 schism finds the embedded subspaces
 
-The functionality of these algorithms are better described in the SCHISM paper:
-
-K. Sequeira, M. J. Zaki. SCHISM: A New Approach for Interesting Subspace Mining.
-In the Proceedings of the Fourth IEEE Conference On Data Mining. 2004.
 
 # RUNNING THEM
 Command line arguments for convertData and dataGen can be found by running them
